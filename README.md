@@ -3,7 +3,7 @@
 ### **1. Clone this repository.**
 ### **2. Open the file in Jupyter Notebook.**
 ### **3. Run the cells and follow the instructions.**
-### **3. Enjoy!**
+### **4. Enjoy!**
 
 
 ### ***Final Result:***
